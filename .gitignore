@@ -1,0 +1,7 @@
+data/
+datasets/
+raw-data/
+runs/
+.ipynb_checkpoints
+yolo8n.pt
+yolo8s.pt
