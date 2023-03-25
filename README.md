@@ -12,4 +12,4 @@ The YOLOv8 object detection model was trained on a local machine. The model was 
 The trained model was evaluated on a test set of images, achieving an mAP of 91,7% and demonstrating its ability to accurately identify and localize tablets and capsules in real-world images.
 
 ## Usage
-The trained YOLOv8 model can be tested on [Roboflow](https://universe.roboflow.com/seblful/pills-detection-s9ywn)
+The trained YOLOv8 model can be tested on [Roboflow](https://universe.roboflow.com/seblful/pills-detection-s9ywn).
