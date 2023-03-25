@@ -3,5 +3,6 @@ datasets/
 raw-data/
 runs/
 .ipynb_checkpoints
-yolo8n.pt
-yolo8s.pt
+yolov8n.pt
+yolov8s.pt
+Prozac_pills.jpg
